@@ -25,6 +25,10 @@ img {
     margin-bottom: 10px;
     display: block;
 }
+#github,#linkedin{
+    max-width: 40px;
+
+}
 
 #container {
     display: grid;
